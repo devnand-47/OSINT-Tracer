@@ -42,6 +42,6 @@ This project is built with `Python 3.10+`.
 
 #### 1. Clone the Repository
 ```bash
-git clone [https://github.com/devnand-47/OSINT-Tracer.git](https://github.com/devnand-47/OSINT-Tracer.git)
+git clone https://github.com/devnand-47/OSINT-Tracer.git
 cd OSINT-Tracer  
 python main.py
