@@ -31,7 +31,7 @@ class OSINTTracer:
  | |__| | |___ | || |\  | | |     | | |  _ <  / ___ \ |___| |___|  _ < 
   \____/|_____|___|_| \_| |_|     |_| |_| \_\/_/   \_\____|_____|_| \_\\
                                                     v1.0.0 | @devnand-47
-              https://github.com/devnand-47/devnand-47/blob/main/README.md
+              https://github.com/devnand-47
         """ + Style.RESET_ALL)
 
     def check_site(self, site, url):
@@ -62,4 +62,5 @@ class OSINTTracer:
 
 if __name__ == "__main__":
     app = OSINTTracer()
+
     app.run()
